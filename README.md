@@ -1,2 +1,2 @@
 # Network_Port_Scanner
-A Python-based Network Port Scanner with a Tkinter GUI that scans a target IP address and identifies open ports using socket programming and multithreading.
+This project is a Python-based Network Port Scanner with a graphical user interface built using Tkinter. It allows users to scan a target IP address or domain to detect open ports. The application uses socket programming to establish connections and determine port status. Multithreading is implemented to improve scanning speed by checking multiple ports simultaneously. The results are displayed in real-time, and users can also save the output for future reference.
